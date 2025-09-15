@@ -1,4 +1,4 @@
-Compute_QuasiSCF:
+Compute_QuasiSCF_DAE:
 
 This program computes a QuasiSCF via a PreSCF for 
 regular linear time varying DAEs and provides the 
