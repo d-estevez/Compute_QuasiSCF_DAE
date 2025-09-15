@@ -1,6 +1,6 @@
 Compute_QuasiSCF_DAE:
 
-This program computes a QuasiSCF via a PreSCF for 
+The program from Generate_QuasiSCF_Steps computes a QuasiSCF via a PreSCF for 
 regular linear time varying DAEs and provides the 
 projector Pi_can accordingly to:
 
