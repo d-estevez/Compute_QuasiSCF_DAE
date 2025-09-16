@@ -2,7 +2,7 @@
 
 The program from Generate_QuasiSCF_Steps computes a QuasiSCF via a PreSCF for 
 regular linear time varying DAEs and provides the 
-projector Pi_can accordingly to:
+projector $Pi_{can}$ accordingly to:
 
 Diana Estévez Schwarz, René Lamour, and Roswitha März: 
    "Computing standard canonical forms of regular linear
